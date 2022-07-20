@@ -50,6 +50,12 @@ async function postForm() {
     }
 }
 
+console.log(`RTC BLOCK APPEAL SPAMMER BOT v1.0.0
+
+Bot created by: @Biack1st on Twitter.
+Bot is starting, please wait.
+-----------------------------------------------------`)
+
 postForm().then(async () => {
     setInterval(postForm, REQUEST_SPEED * 1000)
 })
