@@ -5,4 +5,4 @@ So recently, I saw awexa_ok tweeting out a message they got from the official RT
 ## How to setup
 If you would like to setup this bot on your own in order to spam the form to multiply the damage, here's how!
 
-*SOON*
+**SOON**
