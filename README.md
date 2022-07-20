@@ -55,3 +55,12 @@ node src/index.js
 And there you go, you now have just started the bot! Thanks for helping us on our way to get revenge on Alex for all the terrible shit she's done. If you need any help with anything feel free to DM me on Twitter @Biack1st. My DMs are always open!
 
 
+### Configuring the bot to your likings
+After you finish setting up the bot, you most likely will want to configure it. Either to make it faster, or just for the lolz.
+
+Here are the variables I recommend you configure to your likings. Changing anything else could break the bot, be careful!
+
+* requestSpeed line 5. Configures how often the bot sends an "appeal." Don't make this to low otherwise the bot could break.
+* tag line 6. This is the twitter tag attatched to the appeal. Would recommend you change to your real tag just to troll Alex.
+* emailAddress. This is the emailAddress attatched to the appeal. Would recommend making this a FAKE email. Make sure to have @gmail.com or any other email domain attached to the end of the email. Otherwise the bot won't work.
+* appealReasons this is an array with strings of appeal messages that can be sent. 
